@@ -93,3 +93,7 @@ body {
 .demo__item_type_translate:hover .demo__icon {
     transform: translate(10px, 0);
 }
+
+.demo__item_type_rotate:hover .demo__icon {
+    transform: rotate(36deg);
+}

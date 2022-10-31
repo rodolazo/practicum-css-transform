@@ -101,3 +101,7 @@ body {
 .demo__item_type_scale:hover .demo__icon {
     transform: scale(1.2);
 }
+
+.demo__item_type_skew:hover .demo__icon {
+    transform: skew(20deg, 0);
+}

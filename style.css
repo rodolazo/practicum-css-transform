@@ -97,3 +97,7 @@ body {
 .demo__item_type_rotate:hover .demo__icon {
     transform: rotate(36deg);
 }
+
+.demo__item_type_scale:hover .demo__icon {
+    transform: scale(1.2);
+}
